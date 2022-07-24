@@ -5,9 +5,11 @@
 |----------------------|--------------------|
 |![image](https://user-images.githubusercontent.com/46744584/180655560-765c46ef-9d72-4946-9202-9e568af699c3.png)  |  ![image](https://user-images.githubusercontent.com/46744584/180655571-51948251-e6e5-49ae-b945-b3ba1cc4de4b.png)|
 
-Итог:                  
+Полученный итог:                  
 ![image](https://user-images.githubusercontent.com/46744584/180655813-5c70318c-e076-4007-91ad-dc9e5df96976.png)
 
-
+|Зимняя фотография|Полученная летняя фотография|
+|----------------------|--------------------|
+|![image](https://user-images.githubusercontent.com/46744584/180656369-570ac4e3-7027-44b7-8d7a-baf40ed27bb8.png)|![image](https://user-images.githubusercontent.com/46744584/180656379-25543be0-cdd9-4470-b57b-9abb9b2e2f52.png)|
 
 
