@@ -9,11 +9,4 @@
 
 
 
-\begin{table}[]
-\begin{tabular}{ll}
-\multicolumn{2}{l}{П}    \\
-Привет       & Пока      \\
-\multicolumn{2}{l}{Здра} \\
-\multicolumn{2}{l}{При} 
-\end{tabular}
-\end{table}
+
